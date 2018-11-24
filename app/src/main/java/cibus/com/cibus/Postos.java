@@ -72,7 +72,7 @@ public class Postos {
     public String toString() {
         return "Nome: "+ nome + "\n"
                 + "Bandeira: " + bandeira + "\n"
-                + "Preco: " + preco + "\n" + id;
+                + "Preco Gasolina: " + preco; //+ "\n" + id;
     }
 
 }
